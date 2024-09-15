@@ -1,0 +1,35 @@
+/* Google Font  */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+/* Variables CSS */
+:root{
+    /* Colors */
+    --first-color: hsl(353,100%,65%);
+    --title-color: hsl(244,34%,26%);
+    --text-color: hsl(244,16%,43%);
+    --body-color: hsl(258,60%,98%);
+    --container-color: #fff;
+
+    /* Font and Typography */
+    --body-font: 'Oswald', sans-serif;
+    --h1-font-size: 2.5rem;
+    --h2-font-size: 1.5rem;
+    --H3-font-size: 1.25rem;
+    --normal-font-size: 1rem;
+    --small-font-size: 0.875rem;
+    --smaller-font-size: 0.813rem;
+
+    /* Font Weight */
+    --font-medium: 500;
+    --font-semi-bold: 600;
+    --font-bold:700;
+
+    /* Box shadow */
+    --shadow:0px 5px 20px 0px rgba(69 67 96/10%);
+
+    /* Border Radius */
+    --border-radius: 20px;
+
+}
+
+/* Base */
